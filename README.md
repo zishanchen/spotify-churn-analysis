@@ -52,12 +52,13 @@ This analysis answered four key business questions, with the following insights:
 
 ## 5. Repository Structure
 The repository is organized for clarity and reproducibility:
-
+```
 spotify-churn-analysis/
 ├── data/
 │   └── spotify_churn_dataset.csv
 ├── churn_analysis.py
 └── README.md
+```
 
 ## 6. How to Use
 1.  **Clone the Repository:**
