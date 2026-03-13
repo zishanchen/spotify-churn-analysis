@@ -67,8 +67,7 @@ The repository is organized for clarity and reproducibility:
 ## 6. How to Use
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/spotify-churn-analysis.git
-    cd spotify-churn-analysis
+    git clone https://github.com/zishanchen/spotify-churn-analysis.git
     ```
 2.  **Install Dependencies:**
     Ensure you have Python installed. Then, install the required libraries:
